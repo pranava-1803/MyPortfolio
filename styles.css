@@ -13,7 +13,7 @@
                 opacity: 1;
             }
         }
-        /* .navbar {
+        .navbar {
           display: flex;
           justify-content: left;
           align-items: center;
@@ -36,6 +36,6 @@
 
       .navbar li:hover {
           background-color: rgb(51, 54, 55);
-      } */
+      }
 
     </style>
